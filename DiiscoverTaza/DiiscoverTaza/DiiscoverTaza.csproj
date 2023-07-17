@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\icons\calender.svg" />
+    <None Include="wwwroot\images\icons\facebook.svg" />
+    <None Include="wwwroot\images\icons\instagram.svg" />
+    <None Include="wwwroot\images\icons\instagram2.svg" />
+    <None Include="wwwroot\images\icons\linkedin.svg" />
+    <None Include="wwwroot\images\icons\location-dot.svg" />
+    <None Include="wwwroot\images\icons\location.svg" />
+    <None Include="wwwroot\images\icons\s-2.svg" />
+    <None Include="wwwroot\images\icons\search.svg" />
+    <None Include="wwwroot\images\icons\share-arrow.svg" />
+    <None Include="wwwroot\images\icons\twitter.svg" />
+    <None Include="wwwroot\images\shape\banner-text-shape.svg" />
+    <None Include="wwwroot\js\site.js" />
+  </ItemGroup>
+
+</Project>

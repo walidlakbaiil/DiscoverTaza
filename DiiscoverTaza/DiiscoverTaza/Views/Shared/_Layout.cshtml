@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Traveel - Responsive HTML 5 Template</title>
+
+    <!-- Fav Icon -->
+    <link rel="icon" href="~/images/fav-icon.png" type="image/x-icon">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Source+Serif+Pro:wght@400;600&display=swap" rel="stylesheet">
+
+    <!-- Stylesheets -->
+    <link href="~/css/font-awesome-all.css" rel="stylesheet">
+    <link href="~/css/fontawesome.min.css" rel="stylesheet">
+    <link href="~/css/flaticon_save_us.css" rel="stylesheet">
+    <link href="~/fonts/flaticon.css" rel="stylesheet">
+    <link href="~/css/owl.css" rel="stylesheet">
+    <link href="~/css/slick-theme.css" rel="stylesheet">
+    <link href="~/css/slick.css" rel="stylesheet">
+    <link href="~/css/bootstrap.css" rel="stylesheet">
+    <link href="~/css/jquery.fancybox.min.css" rel="stylesheet">
+    <link href="~/css/magnific-popup.css" rel="stylesheet">
+    <link href="~/css/progresscircle.css" rel="stylesheet">
+    <link href="~/css/animate.css" rel="stylesheet">
+    <link href="~/css/color.css" rel="stylesheet">
+    <link href="~/css/nice-select.css" rel="stylesheet">
+    <link href="~/css/global.css" rel="stylesheet">
+    <link href="~/css/swiper.min.css" rel="stylesheet">
+    <link href="~/css/responsive.css" rel="stylesheet">
+    <link href="~/css/style.css" rel="stylesheet" />
+
+    @* Render the "head" partial view *@
+   
+
+</head>
+
+<!-- page wrapper -->
+<body>
+    @{
+        await Html.RenderPartialAsync("head");
+    }
+
+        <!-- preloader -->
+        <!-- preloader end -->
+        <!-- main header -->
+        @RenderBody()
+        <!-- blog -->
+        <!--footer -->
+        @* Render the "foot" partial view *@
+        @{
+            await Html.RenderPartialAsync("foot");
+        }
+
+
+
+    <!-- jequery plugins -->
+    <script src="~/js/jquery.js"></script>
+    <script src="~/js/popper.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/js/fontawesome.min.js"></script>
+    <script src="~/js/all.min.js"></script>
+    <script src="~/js/owl.js"></script>
+    <script src="~/js/wow.js"></script>
+    <script src="~/js/slick.min.js"></script>
+    <script src="~/js/validation.js"></script>
+    <script src="~/js/progresscircle.js"></script>
+    <script src="~/js/scrollbar.js"></script>
+    <script src="~/js/appear.js"></script>
+    <script src="~/js/jquery.nice-select.min.js"></script>
+    <script src="~/js/swiper.min.js"></script>
+    <script src="~/js/parallax.min.js"></script>
+    <script src="~/js/jquery.fancybox.js"></script>
+    <script src="~/js/jquery.magnific-popup.js"></script>
+    <script src="~/js/parallax-scroll.js"></script>
+    <script src="~/js/jquery.paroller.min.js"></script>
+
+    <!-- main-js -->
+    <script src="~/js/script.js"></script>
+
+</body><!-- End of .page_wrapper -->
+</html>

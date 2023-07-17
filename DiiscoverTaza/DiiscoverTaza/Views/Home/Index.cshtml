@@ -1,0 +1,445 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="offcanvas offcanvas-top" tabindex="-1" id="offcanvasTop">
+    <div class="offcanvas-header">
+        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"><i class="flaticon-add"></i></button>
+    </div>
+    <div class="offcanvas-body">
+        <form>
+            <input type="search" placeholder="Search...">
+            <i class="flaticon-search"></i>
+        </form>
+    </div>
+</div>
+<!-- search popup end-->
+<!-- Mobile Menu  -->
+<div class="mobile-menu">
+    <div class="menu-backdrop"></div>
+    <div class="close-btn"><i class="fas fa-times"></i></div>
+    <nav class="menu-box">
+        <div class="nav-logo"><a href="index.html"><img src="~/images/LOGO-TAZ.png" alt="logo"></a></div>
+        <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
+        <div class="contact-info">
+            <h4>Contact Info</h4>
+            <ul>
+                <li>Chicago 12, Melborne City, USA</li>
+            </ul>
+        </div>
+
+    </nav>
+</div>
+<!-- End Mobile Menu -->
+<!-- banner -->
+<section class="banner">
+    <div class="banner-icon1">
+        <img src="~/images/icons/banner-icon-01.png" alt="icon">
+    </div>
+    <div class="banner-icon2">
+        <img src="~/images/icons/banner-icon-02.png" alt="icon">
+    </div>
+    <div class="pattern-layer" style="background-image: url(~/images/shape/map.png);"></div>
+
+    <div class="banner-carousel owl-theme owl-carousel">
+        <div class="slide-item">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="banner-slide">
+                            <div class="banner-content">
+                                <div class="banner-content-wrapper">
+                                    <div class="banner-content-wrapper-inner">
+                                        <h2>
+                                            Explore the City <br>
+                                            <span>
+                                                Taza
+                                                <svg class="banner-text-shape" width="247" height="38" viewBox="0 0 247 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path id="signature1" d="M3.18577 22.2125C3.18577 22.2125 155.675 -3.21963 241.039 14.2277" stroke="#FE7524" stroke-width="5" stroke-linecap="round" />
+                                                    <path id="signature2" d="M3.55141 17.792C3.55141 17.792 158.876 1.54075 243.929 23.8236" stroke="#FE7524" stroke-width="5" stroke-linecap="round" />
+                                                </svg>
+                                            </span>
+                                        </h2>
+                                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantiumtheresr doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <div class="banner-right-content">
+                            <div class="banner-right-image" id="a">
+                                <img src="~/images/taza.jpg" alt="banner-two-image">
+                            </div>
+                            <div class="border-image">
+                                <img src="~/images/shape/border-image.png" alt="border">
+                            </div>
+                            <div class="banner-plane">
+                                <img src="~/images/shape/banner-plan.png" alt="plan">
+                            </div>
+                            <div class="banner-car">
+                                <img src="~/images/shape/banner-car.png" alt="car">
+                            </div>
+                            <div class="banner-vedio">
+                                <div class="banner-vedio-image">
+                                    <img src="~/images/L8LRtyXgFys-HD.jpg" alt="">
+                                    <div class="missiom-video-btn">
+                                        <a href="https://www.youtube.com/watch?v=L8LRtyXgFys&ab_channel=%D8%AA%D8%B3%D8%A7%D9%81%D8%B1%D8%A9Tsafira" target="_blank" class="hv-popup-link"><i class="fas fa-play"></i></a>
+                                    </div>
+                                </div>
+                                <div class="banner-blank1"></div>
+                                <div class="banner-blank2"></div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="slide-item">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="banner-slide">
+                            <div class="banner-content">
+                                <div class="banner-content-wrapper">
+                                    <div class="banner-content-wrapper-inner">
+
+                                        <h2>
+                                            Visit The City <br>
+                                            <span>
+                                                Taza!
+                                                <svg class="banner-text-shape" width="247" height="38" viewBox="0 0 247 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path id="signature3" d="M3.18577 22.2125C3.18577 22.2125 155.675 -3.21963 241.039 14.2277" stroke="#FE7524" stroke-width="5" stroke-linecap="round" />
+                                                    <path id="signature4" d="M3.55141 17.792C3.55141 17.792 158.876 1.54075 243.929 23.8236" stroke="#FE7524" stroke-width="5" stroke-linecap="round" />
+                                                </svg>
+                                            </span>
+                                        </h2>
+                                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantiumtheresr doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <div class="banner-right-content">
+                            <div class="banner-right-image">
+                                <img src="~/images/taza.jpg" alt="banner-two-image">
+                            </div>
+                            <div class="border-image">
+                                <img src="~/images/shape/border-image.png" alt="border">
+                            </div>
+                            <div class="banner-plane">
+                                <img src="~/images/shape/banner-plan.png" alt="plan">
+                            </div>
+                            <div class="banner-car">
+                                <img src="~/images/shape/banner-car.png" alt="car">
+                            </div>
+                            <div class="banner-vedio">
+                                <div class="banner-vedio-image">
+                                    <img src="~/images/L8LRtyXgFys-HD.jpg" alt="">
+                                    <div class="missiom-video-btn">
+                                        <a href="https://www.youtube.com/watch?v=L8LRtyXgFys&ab_channel=%D8%AA%D8%B3%D8%A7%D9%81%D8%B1%D8%A9Tsafira" target="_blank" class="hv-popup-link"><i class="fas fa-play"></i></a>
+                                    </div>
+                                </div>
+                                <div class="banner-blank1"></div>
+                                <div class="banner-blank2"></div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="slide-item">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="banner-slide">
+                            <div class="banner-content">
+                                <div class="banner-content-wrapper">
+                                    <div class="banner-content-wrapper-inner">
+                                        <h2>
+                                            Visit the City <br>
+                                            <span>
+                                                Taza!
+                                                <svg class="banner-text-shape" width="247" height="38" viewBox="0 0 247 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path id="signature5" d="M3.18577 22.2125C3.18577 22.2125 155.675 -3.21963 241.039 14.2277" stroke="#FE7524" stroke-width="5" stroke-linecap="round" />
+                                                    <path id="signature6" d="M3.55141 17.792C3.55141 17.792 158.876 1.54075 243.929 23.8236" stroke="#FE7524" stroke-width="5" stroke-linecap="round" />
+                                                </svg>
+                                            </span>
+                                        </h2>
+                                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantiumtheresr doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.</p>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6">
+                        <div class="banner-right-content">
+                            <div class="banner-right-image">
+                                <img src="~/images/taza.jpg" alt="banner-two-image">
+                            </div>
+                            <div class="border-image">
+                                <img src="~/images/shape/border-image.png" alt="border">
+                            </div>
+                            <div class="banner-plane">
+                                <img src="~/images/shape/banner-plan.png" alt="plan">
+                            </div>
+                            <div class="banner-car">
+                                <img src="~/images/shape/banner-car.png" alt="car">
+                            </div>
+                            <div class="banner-vedio">
+                                <div class="banner-vedio-image">
+                                    <img src="~/images/L8LRtyXgFys-HD.jpg" alt="">
+                                    <div class="missiom-video-btn">
+                                        <a href="https://www.youtube.com/watch?v=L8LRtyXgFys&ab_channel=%D8%AA%D8%B3%D8%A7%D9%81%D8%B1%D8%A9Tsafira" target="_blank" class="hv-popup-link"><i class="fas fa-play"></i></a>
+                                    </div>
+                                </div>
+                                <div class="banner-blank1"></div>
+                                <div class="banner-blank2"></div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- banner -->
+<h3 id="history">History of taza</h3>
+<div class="container1">
+    <p>
+        Historically Taza was known first as Ribāt Taza (Arabic: رباط تازة), a military camp belonging to the Fatimid state, founded by the local governor Musa ibn Abi'l-Afiya (موسى بن أبي العافية) who was also the leader of the Miknasa.[3][full citation needed] Up to at least the early 20th century, Taza was a considerable trading centre on the route between Fez and the Algerian frontier.[4] Taza as a toponym could be derivative from Tizi (Tamazight for a hill that lies between mountains) which is where it stands up.
+
+        Taza was first settled by Miknasa tribesmen, who gave it its name: Miknasa Taza, similar to Miknasa al-Zeitoun (present-day Meknes, another Miknasa settlement). The Almoravid empire took over Taza in 1074. They were replaced by the Almohad empire in 1132. In 1248 the city was captured by the Marinids. Although Taza barred the route of the Turks from Algiers seeking conquest in what is now Morocco,[5] it fell to the French in 1914. The old town has Berber monuments, mosques, and a 14th-century madrasa (Koranic school). Population in 1982 stood at 77,216
+    </p>
+</div>
+<!-- service -->
+<!-- service -->
+<!-- category -->
+<section class="category">
+    <div class="sail-image">
+        <img src="~/images/shape/sail.png" alt="shape">
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="align-title">
+                    <h3>Type of what you can see in Taza</h3>
+                </div>
+            </div>
+
+            <div class="col-xl-2 col-lg-4 col-md-6">
+                <div class="category-content wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1000ms">
+                    <div class="category-content-inner">
+                        <div class="category-image-container">
+                            <div class="category-image">
+                                <img src="~/images/icons/c-1.png" alt="icon">
+                            </div>
+                        </div>
+                        <h5>City Tour</h5>
+                        <span>30 Places</span>
+
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-2 col-lg-4 col-md-6">
+                <div class="category-content wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1200ms">
+                    <div class="category-content-inner">
+                        <div class="category-image-container">
+                            <div class="category-image">
+                                <img src="~/images/icons/c-2.png" alt="icon">
+                            </div>
+                        </div>
+                        <h5>Adventure</h5>
+                        <span>30 Places</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-2 col-lg-4 col-md-6">
+                <div class="category-content wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1400ms">
+                    <div class="category-content-inner">
+                        <div class="category-image-container">
+                            <div class="category-image">
+                                <img src="~/images/monu-removebg-preview (1).png" alt="icon">
+                            </div>
+                        </div>
+                        <h5>Monuments</h5>
+                        <span>30 Places</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-2 col-lg-4 col-md-6">
+                <div class="category-content wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1600ms">
+                    <div class="category-content-inner">
+                        <div class="category-image-container">
+                            <div class="category-image">
+                                <img src="~/images/icons/c-4.png" alt="icon">
+                            </div>
+                        </div>
+                        <h5>Travel</h5>
+                        <span>30 Places</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-2 col-lg-4 col-md-6">
+                <div class="category-content wow fadeInUp" data-wow-delay="00ms" data-wow-duration="1400ms">
+                    <div class="category-content-inner">
+                        <div class="category-image-container">
+                            <div class="category-image">
+                                <img src="~/images/FOR.png" alt="icon">
+                            </div>
+                        </div>
+                        <h5>Forest</h5>
+                        <span>30 Places</span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+<!-- category -->
+<!-- deals -->
+<!-- video -->
+<section class="video">
+    <div class="pattern-layer" style="background-image: url(~/images/shape/destination-map.png);"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="video-container">
+                    <div class="align-title">
+                        <h3>Location of Taza</h3>
+                    </div>
+                    <div class="video-image">
+                        <img src="~/images/Taza-circo.jpg" alt="image">
+                        <p>
+                            Taza is located in north-central Morocco, in the south of the Rif region right outside the mountain range on a narrow plain. The city is composed of two formerly separate towns built on separate terraces overlooking a mountain valley. The old-Taza town is at an elevation of 1,919 feet (585 m) above sea level and is surrounded by fortifications; the newer town, established by the French in 1920, is located in a fertile plain at an elevation of 1,460 feet (445 m). Fossil remains indicate that caves in the area were inhabited as early as the Paleolithic Period. One of the most important caves in Morocco, Rhar Chara, is close to Taza. This cave is over 7.6 kilometres long.[6]
+
+                            The city is located in a mountain pass known as the "Taza Gap", where the Rif mountains and the Middle-Atlas range come together. Through this pass successive waves of invaders moved westward onto the Atlantic coastal plains of north-western Africa.
+                        </p>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- video -->
+<!-- funfact -->
+<section class="fanfact">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-6">
+                <div class="funfact-container">
+                    <div class="funfact-inner-box">
+                        <div class="count-outer count-box">
+                            <span class="count-text" data-speed="1500" data-stop="19">0</span>
+                            <span class="count-after">+</span>
+                        </div>
+                        <p>Guides</p>
+                        <h6>Professional Guides</h6>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="funfact-container">
+                    <div class="funfact-inner-box">
+                        <div class="count-outer count-box">
+                            <span class="count-text" data-speed="1500" data-stop="50">0</span>
+                            <span class="count-after">k+</span>
+                        </div>
+                        <p>Customers</p>
+                        <h6>Happy Customers</h6>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="funfact-container">
+                    <div class="funfact-inner-box">
+                        <div class="count-outer count-box">
+                            <span class="count-text" data-speed="1500" data-stop="25">0</span>
+                            <span class="count-after">+</span>
+                        </div>
+                        <p>Experience</p>
+                        <h6>Traveling Experience </h6>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-6">
+                <div class="funfact-container">
+                    <div class="funfact-inner-box">
+                        <div class="count-outer count-box">
+                            <span class="count-text" data-speed="1500" data-stop="64">0</span>
+                            <span class="count-after">+</span>
+                        </div>
+                        <p>Completed</p>
+                        <h6>Tours Are Completed</h6>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- funfact -->
+<!-- destination -->
+<section class="destination">
+    <div class="destination-icon">
+        <img src="~/images/icons/plan.png" alt="icon">
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="align-title">
+                    <h3>Our Popular places</h3>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="destination-container">
+                    <div class="destination-image">
+                        <a href="destination-details.html"><img src="~/images/ag.jpg" alt="image"></a>
+                    </div>
+                    <div class="destination-content destination-content-1">
+                        <h6>Agora</h6>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6">
+                <div class="destination-container mb-24">
+                    <div class="destination-image">
+                        <a href="destination-details.html"><img src="~/images/tazzeka.jpg" alt="image"></a>
+                    </div>
+                    <div class="destination-content destination-content-2">
+                        <h6>Tazekka</h6>
+                    </div>
+                </div>
+                <div class="destination-container">
+                    <div class="destination-image">
+                        <a href="destination-details.html"><img src="~/images/VLQI55CRIRFL7DD7BPMZBVPMNI.jpg" alt="image"></a>
+                    </div>
+                    <div class="destination-content destination-content-3">
+                        <h6>Rass Elma</h6>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
