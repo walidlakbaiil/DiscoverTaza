@@ -1,13 +1,17 @@
-﻿<header class="main-header style-one">
+﻿
+<html>
+
+<body>
+    <header class="main-header style-one">
 
     <div class="header-lower">
         <div class="header_bottom p_relative">
             <div class="auto_container">
                 <div class="outer-box">
                     <div class="logo-box">
-                        <figure class="logo"><a href="index.html"><img src="~/images/LOGO-TAZ.png" alt=""></a></figure>
+                        <figure class="logo"><a href="#"><img src="~/images/LOGO-TAZ.png" alt=""></a></figure>
                     </div>
-                    <div class="menu-area">
+                        <div style="margin-left:100px;" class="menu-area">
                         <!--Mobile Navigation Toggler-->
                         <div class="mobile-nav-toggler">
                             <i class="icon-bar"></i>
@@ -18,15 +22,17 @@
                             <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
                                     <li class="dropdown">
-                                        <a href="index.html" class="active">Home</a>
+                                            <a href="@Url.Action("Index", "Home")">Home</a>
 
                                     </li>
                                     <li class="dropdown">
-                                        <a href="destination.html">Activités</a>
+                                        <a href="#">Activités</a>
                                         <ul>
-                                            <li><a href="destination.html">Destination One</a></li>
-                                            <li><a href="destination-2.html">Destination Two</a></li>
-                                            <li><a href="destination-3.html">Destination Three</a></li>
+                                            <li><a href="destination.html">Balades & Excursions</a></li>
+                                                <li>
+                                                    <a href="@Url.Action("Art_Culture", "Home")">Art & Culture</a>
+                                                </li>
+                                                <li><a href="@Url.Action("Hotels", "Home")">Hotels</a></li>
                                             <li><a href="destination-details.html">Destination Details</a></li>
                                         </ul>
                                     </li>
@@ -57,7 +63,7 @@
                     </div>
                     <div class="header__right">
                         <div class="header-right-search">
-                            <div class="header-scarce">
+                                <div style="margin-left:250px" class="header-scarce">
                                 <button class="btn primary" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasTop" aria-controls="offcanvasTop">
                                     <i class="flaticon-search"></i>
                                 </button>
@@ -76,7 +82,7 @@
         <div class="auto_container">
             <div class="outer-box">
                 <div class="logo-box">
-                    <figure class="logo"><a href="index.html"><img src="~/images/LOGO-TAZ.png" alt=""></a></figure>
+                    <figure class="logo"><a href="#"><img src="~/images/LOGO-TAZ.png" alt=""></a></figure>
                 </div>
                 <div class="menu-area">
                     <nav class="main-menu clearfix">
@@ -87,3 +93,5 @@
         </div>
     </div>
 </header>
+</body>
+</html>

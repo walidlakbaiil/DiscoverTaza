@@ -9,45 +9,137 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DiiscoverTaza
 build_property.RootNamespace = DiiscoverTaza
-build_property.ProjectDir = C:\Users\msià\Desktop\Nouveau dossier\DiiscoverTaza\DiiscoverTaza\
+build_property.ProjectDir = C:\Users\SARA-PC\OneDrive\Bureau\DiiscoverTaza2\DiiscoverTaza\DiiscoverTaza\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\msià\Desktop\Nouveau dossier\DiiscoverTaza\DiiscoverTaza
+build_property.MSBuildProjectDirectory = C:\Users\SARA-PC\OneDrive\Bureau\DiiscoverTaza2\DiiscoverTaza\DiiscoverTaza
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/msià/Desktop/Nouveau dossier/DiiscoverTaza/DiiscoverTaza/Views/Home/Index.cshtml]
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/FormulaireDatums/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXVsYWlyZURhdHVtc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/FormulaireDatums/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXVsYWlyZURhdHVtc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/FormulaireDatums/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXVsYWlyZURhdHVtc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/FormulaireDatums/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXVsYWlyZURhdHVtc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/FormulaireDatums/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXVsYWlyZURhdHVtc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/Agora_Complex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZ29yYV9Db21wbGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/AL_WAHDA_APARTMENT.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBTF9XQUhEQV9BUEFSVE1FTlQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/Art_Culture.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBcnRfQ3VsdHVyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/Beautiful_house.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCZWF1dGlmdWxfaG91c2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/festivals.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxmZXN0aXZhbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/Gastronomy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHYXN0cm9ub215LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/Gîte_Dayet_Chiker.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxHw650ZV9EYXlldF9DaGlrZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/Hotels.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb3RlbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/msià/Desktop/Nouveau dossier/DiiscoverTaza/DiiscoverTaza/Views/Home/Privacy.cshtml]
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/KONOUZ_HOUSE.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLT05PVVpfSE9VU0UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/Musical_Heritage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNdXNpY2FsX0hlcml0YWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/Organic_Garden.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPcmdhbmljX0dhcmRlbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/msià/Desktop/Nouveau dossier/DiiscoverTaza/DiiscoverTaza/Views/Shared/Error.cshtml]
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/Pyramides.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQeXJhbWlkZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/tazekka_hotel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0YXpla2thX2hvdGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/Traditional_Clothing.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUcmFkaXRpb25hbF9DbG90aGluZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/Traditional_public_baths.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUcmFkaXRpb25hbF9wdWJsaWNfYmF0aHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/Vegetable_products.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWZWdldGFibGVfcHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/weekly_sooks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx3ZWVrbHlfc29va3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Home/Youth_Center.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxZb3V0aF9DZW50ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/msià/Desktop/Nouveau dossier/DiiscoverTaza/DiiscoverTaza/Views/Shared/foot.cshtml]
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Shared/foot.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGZvb3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/msià/Desktop/Nouveau dossier/DiiscoverTaza/DiiscoverTaza/Views/Shared/head.cshtml]
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Shared/head.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXGhlYWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/msià/Desktop/Nouveau dossier/DiiscoverTaza/DiiscoverTaza/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/msià/Desktop/Nouveau dossier/DiiscoverTaza/DiiscoverTaza/Views/_ViewImports.cshtml]
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/msià/Desktop/Nouveau dossier/DiiscoverTaza/DiiscoverTaza/Views/_ViewStart.cshtml]
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/msià/Desktop/Nouveau dossier/DiiscoverTaza/DiiscoverTaza/Views/Shared/_Layout.cshtml]
+[C:/Users/SARA-PC/OneDrive/Bureau/DiiscoverTaza2/DiiscoverTaza/DiiscoverTaza/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hr8fzx6y0z
