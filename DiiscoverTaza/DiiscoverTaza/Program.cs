@@ -1,3 +1,6 @@
+using DiiscoverTaza.Models;
+using Microsoft.EntityFrameworkCore;
+
 namespace DiiscoverTaza
 {
     public class Program
@@ -8,6 +11,7 @@ namespace DiiscoverTaza
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<TourismContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("tourismContextConnexion")));
 
             var app = builder.Build();
 

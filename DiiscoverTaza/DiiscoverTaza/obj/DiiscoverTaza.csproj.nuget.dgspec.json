@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\msià\\Desktop\\Nouveau dossier\\DiiscoverTaza\\DiiscoverTaza\\DiiscoverTaza.csproj": {}
+    "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\DiiscoverTaza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\msià\\Desktop\\Nouveau dossier\\DiiscoverTaza\\DiiscoverTaza\\DiiscoverTaza.csproj": {
+    "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\DiiscoverTaza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\msià\\Desktop\\Nouveau dossier\\DiiscoverTaza\\DiiscoverTaza\\DiiscoverTaza.csproj",
+        "projectUniqueName": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\DiiscoverTaza.csproj",
         "projectName": "DiiscoverTaza",
-        "projectPath": "C:\\Users\\msià\\Desktop\\Nouveau dossier\\DiiscoverTaza\\DiiscoverTaza\\DiiscoverTaza.csproj",
-        "packagesPath": "C:\\Users\\msià\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\msià\\Desktop\\Nouveau dossier\\DiiscoverTaza\\DiiscoverTaza\\obj\\",
+        "projectPath": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\DiiscoverTaza.csproj",
+        "packagesPath": "C:\\Users\\SARA-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\msià\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\SARA-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet": {}
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -43,6 +40,18 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -62,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

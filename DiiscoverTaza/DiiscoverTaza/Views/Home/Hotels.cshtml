@@ -1,0 +1,253 @@
+﻿@{
+    ViewData["Title"] = "Art & Culture";
+}
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!-- main-header end -->
+<!-- search popup start-->
+<div class="offcanvas offcanvas-top" tabindex="-1" id="offcanvasTop">
+    <div class="offcanvas-header">
+        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"><i class="flaticon-add"></i></button>
+    </div>
+    <div class="offcanvas-body">
+        <form>
+            <input type="search" placeholder="Search...">
+            <i class="flaticon-search"></i>
+        </form>
+    </div>
+</div>
+<!-- search popup end-->
+<!-- Mobile Menu  -->
+<div class="mobile-menu">
+    <div class="menu-backdrop"></div>
+    <div class="close-btn"><i class="fas fa-times"></i></div>
+    <nav class="menu-box">
+        <div class="nav-logo"><a href="#"><img src="/images/LOGO-TAZ.png" alt="logo"></a></div>
+        <div class="menu-outer"><!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header--></div>
+
+        <div class="social-links">
+            <div class="banner-media">
+                <ul>
+                    <li><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                    <li><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                    <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
+                    <li><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</div>
+<!-- End Mobile Menu -->
+<!-- common banner -->
+<section class="common-banner">
+    <div class="common-banner-image" style="background: url(/images/agora3.jpeg);background-repeat:no-repeat;  background-size:cover;"></div>
+
+    <div class="common-banner-title">
+        <a style="color:forestgreen; font-family: Garamond;  font-size: 35px;" href="#"> <strong>Hotels</strong> </a>
+
+        <h3 style="color:orangered">Unveil the Splendors of Taza Hotels: A Journey into Comfort and Elegance!</h3>
+    </div>
+</section>
+<!-- common banner -->
+<!-- popular ture  -->
+<section class="popular-ture destnation-tour">
+    <div class="service-icon1">
+        <img src="/images/icons/s-1.png" alt="icon">
+    </div>
+    <div class="add-spring">
+        <img src="/images/shape/spring.png" alt="shape">
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3 col-md-6">
+                <div class="popular-ture-content destnation-tour-content">
+                    <div class="popular-ture-image">
+                        <img src="/images/agoracomplex.jpg" alt="image">
+                    </div>
+                    <div class="popular-ture-overlay">
+                        <div class="popular-ture-text">
+                            <a href="@Url.Action("Agora_Complex", "Home")">Agora Park Complex</a>
+                            <h6><i class="flaticon-placeholder"></i> Maroc ,Taza</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="popular-ture-content destnation-tour-content">
+                    <div class="popular-ture-image">
+                        <img src="/images/pyramides.jpeg" alt="image">
+                    </div>
+                    <div class="popular-ture-overlay">
+                        <div class="popular-ture-text">
+                            <a href="@Url.Action("Pyramides", "Home")">Hotel-Café-Restaurant Pyramides</a>
+                            <h6><i class="flaticon-placeholder"></i> Maroc, Taza</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="popular-ture-content destnation-tour-content">
+                    <div class="popular-ture-image">
+                        <img src="/images/organicgarden.jpg" alt="image">
+                    </div>
+                    <div class="popular-ture-overlay">
+                        <div class="popular-ture-text">
+                            <a href="@Url.Action("Organic_Garden", "Home")">Taza Organic Garden with view park and restaurant</a>
+                            <h6><i class="flaticon-placeholder"></i> Maroc,Taza</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="popular-ture-content destnation-tour-content">
+                    <div class="popular-ture-image">
+                        <img src="/images/tazeekahotel.jpg" alt="image">
+                    </div>
+                    <div class="popular-ture-overlay">
+                        <div class="popular-ture-text">
+                            <a href="@Url.Action("tazekka_hotel", "Home")">TAZEKKA PARC HOTEL</a>
+                            <h6><i class="flaticon-placeholder"></i> Maroc,Taza</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="popular-ture-content destnation-tour-content">
+                    <div class="popular-ture-image">
+                        <img src="/images/chikertaza.jpg" alt="image">
+                    </div>
+                    <div class="popular-ture-overlay">
+                        <div class="popular-ture-text">
+                            <a href="@Url.Action("Gîte_Dayet_Chiker", "Home")">Gîte Dayet Chiker</a>
+                            <h6><i class="flaticon-placeholder"></i> Bab boudir,Taza</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="popular-ture-content destnation-tour-content">
+                    <div class="popular-ture-image">
+                        <img src="/images/house.jpg" alt="image">
+                    </div>
+                    <div class="popular-ture-overlay">
+                        <div class="popular-ture-text">
+                            <a href="@Url.Action("Beautiful_house", "Home")">BEAUTIFUL HOUSE IN THE HEART OF THE TAZA MOUNTAINS </a>
+                            <h6><i class="flaticon-placeholder"></i> Bab Mrouj,Taza</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="popular-ture-content destnation-tour-content">
+                    <div class="popular-ture-image">
+                        <img src="/images/konoz.jpg" alt="image">
+                    </div>
+                    <div class="popular-ture-overlay">
+                        <div class="popular-ture-text">
+                            <a href="@Url.Action("KONOUZ_HOUSE", "Home")">AL Konoz House</a>
+                            <h6><i class="flaticon-placeholder"></i> Maroc ,Taza</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="popular-ture-content destnation-tour-content">
+                    <div class="popular-ture-image">
+                        <img src="/images/wahda.jpg" alt="image">
+                    </div>
+                    <div class="popular-ture-overlay">
+                        <div class="popular-ture-text">
+                            <a href="@Url.Action("AL_WAHDA_APARTMENT", "Home")">AL WAHDA APARTMENT</a>
+                            <h6><i class="flaticon-placeholder"></i> Maroc,Taza</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- popular ture  -->
+<!-- testimonial -->
+<section style="margin-bottom:90px; background: url('/images/calc.png');
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+    position: relative;
+    box-shadow: 0px 8px 30px rgba(0, 0, 0, 0.05);" class="testimonial">
+    <div style="margin-bottom:150px" class="testimonial-container" ">
+        <div class="testimonials-carousel owl-carousel owl-theme">
+            <div class="testimonial-content">
+
+                <h5>Taza's people</h5>
+                <h4>What do the people of Taza say</h4>
+                <p>"Hotels in Taza offer warm and welcoming hospitality, making it a delightful place to stay."</p>
+                <div class="testimonial-info">
+                    <div class="testimonial-image">
+                        <img src="/images/femme2-removebg-preview.png" alt="image">
+                    </div>
+                    <div class="testimonial-rating">
+                        <p>Fatiha Saidi.</p>
+                        <ul>
+                            <li><i class="fa-solid fa-star"></i></li>
+                            <li><i class="fa-solid fa-star"></i></li>
+                            <li><i class="fa-solid fa-star"></i></li>
+                            <li><i class="fa-solid fa-star"></i></li>
+                            <li><i class="fa-solid fa-star"></i></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="testimonial-content">
+
+                <h5>Taza's people</h5>
+                <h4>What do the people of Taza say</h4>
+                <p>
+                    "Hotels in Taza offer comfortable and well-maintained rooms, providing a great place to rest after a day of exploration."
+
+                </p>
+                <div class="testimonial-info">
+                    <div class="testimonial-image">
+                        <img src="/images/homme1-removebg-preview.png" alt="image">
+                    </div>
+                    <div class="testimonial-rating">
+                        <p>Mohamed Alami.</p>
+                        <ul>
+                            <li><i class="fa-solid fa-star"></i></li>
+                            <li><i class="fa-solid fa-star"></i></li>
+                            <li><i class="fa-solid fa-star"></i></li>
+                            <li><i class="fa-solid fa-star"></i></li>
+                            <li><i class="fa-solid fa-star"></i></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="testimonial-content">
+                <h5>Taza's people</h5>
+                <h4>What do the people of Taza say</h4>
+                <p>"I loved the delicious cuisine offered by the hotel where I stayed in Taza, they have some delightful local specialties."</p>
+                <div class="testimonial-info">
+                    <div class="testimonial-image">
+                        <img src="/images/femme3-removebg-preview.png" alt="image">
+                    </div>
+                    <div class="testimonial-rating">
+                        <p>Hakima Nasiri.</p>
+                        <ul>
+                            <li><i class="fa-solid fa-star"></i></li>
+                            <li><i class="fa-solid fa-star"></i></li>
+                            <li><i class="fa-solid fa-star"></i></li>
+                            <li><i class="fa-solid fa-star"></i></li>
+                            <li><i class="fa-solid fa-star"></i></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- testimonial -->
+<!-- desire place -->
+<!-- desire place -->
+<!--footer -->
