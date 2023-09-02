@@ -1,9 +1,26 @@
   /*  Theme Responsive Css */
 
+@media screen and (max-width: 768px) {
+    .container1 p {
+        font-size: 14px;
+    }
+}
 
-  @media only screen and (max-width: 1850px){
+/* Pour les écrans plus grands, augmenter la taille du texte */
+@media screen and (min-width: 1200px) {
+    .container1 p {
+        font-size: 18px;
+    }
+} 
 
-  }
+
+
+
+
+
+
+@media only screen and (max-width: 1850px) {
+}
   
   @media only screen and (max-width: 1700px){
 
@@ -51,7 +68,7 @@
     /* home three banner */
 
 
-
+   
 
   }
 

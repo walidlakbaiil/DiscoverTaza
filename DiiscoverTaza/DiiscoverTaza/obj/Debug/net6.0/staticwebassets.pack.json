@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\css\\color.css"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\css\\custom-animate.css",
+      "PackagePath": "staticwebassets\\css\\custom-animate.css"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\css\\flaticon.css",
       "PackagePath": "staticwebassets\\css\\flaticon.css"
     },
@@ -37,6 +41,10 @@
       "PackagePath": "staticwebassets\\css\\font-awesome-all.css"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\css\\fontawesome.min.css",
       "PackagePath": "staticwebassets\\css\\fontawesome.min.css"
     },
@@ -47,6 +55,14 @@
     {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\css\\icomoon.css",
       "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\css\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\css\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_555555_256x240.png"
     },
     {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\css\\jquery-ui.css",
@@ -69,6 +85,10 @@
       "PackagePath": "staticwebassets\\css\\nice-select.css"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\css\\odometer-theme-default.css",
+      "PackagePath": "staticwebassets\\css\\odometer-theme-default.css"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\css\\owl.css",
       "PackagePath": "staticwebassets\\css\\owl.css"
     },
@@ -79,6 +99,10 @@
     {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\css\\responsive.css",
       "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\css\\simple-line-icons.css"
     },
     {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\css\\site.css",
@@ -201,8 +225,28 @@
       "PackagePath": "staticwebassets\\images\\1392640.jpg"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\AdobeStock_51567222_Preview.jpeg",
+      "PackagePath": "staticwebassets\\images\\AdobeStock_51567222_Preview.jpeg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\CTaza-et-ses-environs9795-01.jpg",
       "PackagePath": "staticwebassets\\images\\CTaza-et-ses-environs9795-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\Capture d'écran 2023-07-18 223456.png",
+      "PackagePath": "staticwebassets\\images\\Capture d'écran 2023-07-18 223456.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\Capture d'écran 2023-07-18 224416.png",
+      "PackagePath": "staticwebassets\\images\\Capture d'écran 2023-07-18 224416.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\Capture d'écran 2023-07-18 224446.png",
+      "PackagePath": "staticwebassets\\images\\Capture d'écran 2023-07-18 224446.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\Chellah_Jazz_052.JPG",
+      "PackagePath": "staticwebassets\\images\\Chellah_Jazz_052.JPG"
     },
     {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\Conf2018-background-bottom-desktop-1366x705.png",
@@ -241,6 +285,14 @@
       "PackagePath": "staticwebassets\\images\\Taza-monuments-historiques-620x245.jpg"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\Taza_Artisanat.jpg",
+      "PackagePath": "staticwebassets\\images\\Taza_Artisanat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\Traditional_clothing_in_Morocco-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Traditional_clothing_in_Morocco-2.jpg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\VILLE-DE-TAZA-e1589817948318.jpg",
       "PackagePath": "staticwebassets\\images\\VILLE-DE-TAZA-e1589817948318.jpg"
     },
@@ -253,6 +305,86 @@
       "PackagePath": "staticwebassets\\images\\ag.jpg"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\agora.jpg",
+      "PackagePath": "staticwebassets\\images\\agora.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\agora10.jpg",
+      "PackagePath": "staticwebassets\\images\\agora10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\agora2.jpeg",
+      "PackagePath": "staticwebassets\\images\\agora2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\agora3.jpeg",
+      "PackagePath": "staticwebassets\\images\\agora3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\agora4.jpeg",
+      "PackagePath": "staticwebassets\\images\\agora4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\agora5.jpg",
+      "PackagePath": "staticwebassets\\images\\agora5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\agora6.jpg",
+      "PackagePath": "staticwebassets\\images\\agora6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\agora9.jpg",
+      "PackagePath": "staticwebassets\\images\\agora9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\agoracomplex.jpg",
+      "PackagePath": "staticwebassets\\images\\agoracomplex.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\agorahotel.jpg",
+      "PackagePath": "staticwebassets\\images\\agorahotel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\alwahda.jpg",
+      "PackagePath": "staticwebassets\\images\\alwahda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\alwahda2.jpg",
+      "PackagePath": "staticwebassets\\images\\alwahda2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\alwahda3.jpg",
+      "PackagePath": "staticwebassets\\images\\alwahda3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\alwahda4.jpg",
+      "PackagePath": "staticwebassets\\images\\alwahda4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\alwahda5.jpg",
+      "PackagePath": "staticwebassets\\images\\alwahda5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\alwahda6.jpg",
+      "PackagePath": "staticwebassets\\images\\alwahda6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\alwahda7.jpg",
+      "PackagePath": "staticwebassets\\images\\alwahda7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\art.png",
+      "PackagePath": "staticwebassets\\images\\art.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\article_916_4835_1585237939.jpg",
+      "PackagePath": "staticwebassets\\images\\article_916_4835_1585237939.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\artisanat.jpg",
+      "PackagePath": "staticwebassets\\images\\artisanat.jpg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\bab.jpeg",
       "PackagePath": "staticwebassets\\images\\bab.jpeg"
     },
@@ -261,12 +393,148 @@
       "PackagePath": "staticwebassets\\images\\bab.jpg"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\back2.png",
+      "PackagePath": "staticwebassets\\images\\back2.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\back3.png",
+      "PackagePath": "staticwebassets\\images\\back3.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\back4.png",
+      "PackagePath": "staticwebassets\\images\\back4.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\back6.png",
+      "PackagePath": "staticwebassets\\images\\back6.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\back7.png",
+      "PackagePath": "staticwebassets\\images\\back7.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\back8.png",
+      "PackagePath": "staticwebassets\\images\\back8.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\back9.png",
+      "PackagePath": "staticwebassets\\images\\back9.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background1.jpg",
+      "PackagePath": "staticwebassets\\images\\background1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\banner-3.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\banner-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\banner-image-1.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\banner-image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\banner-pattern.png",
+      "PackagePath": "staticwebassets\\images\\background\\banner-pattern.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\booking-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\booking-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\buy.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\buy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\category-1.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\category-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\category-2.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\category-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\category-3.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\category-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\category-4.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\category-4.jpg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\divider-bg.jpg",
       "PackagePath": "staticwebassets\\images\\background\\divider-bg.jpg"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\f-bottom-bg.svg",
+      "PackagePath": "staticwebassets\\images\\background\\f-bottom-bg.svg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\footer-bg.png",
       "PackagePath": "staticwebassets\\images\\background\\footer-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\image-1.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\image-2.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\image-3.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\image-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\image-4.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\image-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\image-5.png",
+      "PackagePath": "staticwebassets\\images\\background\\image-5.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\image-6.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\image-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\image-7.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\image-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\newsletter-bg.png",
+      "PackagePath": "staticwebassets\\images\\background\\newsletter-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\not-found-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\not-found-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\pattern-1.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\pattern-2.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-2.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\pattern-layer.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-layer.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\background\\testi-image-1.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\testi-image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\baladia.jpg",
+      "PackagePath": "staticwebassets\\images\\baladia.jpg"
     },
     {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\banner\\banner-right-image.png",
@@ -333,6 +601,46 @@
       "PackagePath": "staticwebassets\\images\\banner\\home2-banner2.jpg"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\bath.jpg",
+      "PackagePath": "staticwebassets\\images\\bath.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\bath2.png",
+      "PackagePath": "staticwebassets\\images\\bath2.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\bellehouse.jpg",
+      "PackagePath": "staticwebassets\\images\\bellehouse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\bellehouse2.jpg",
+      "PackagePath": "staticwebassets\\images\\bellehouse2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\bellehouse3.jpg",
+      "PackagePath": "staticwebassets\\images\\bellehouse3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\bellehouse4.jpg",
+      "PackagePath": "staticwebassets\\images\\bellehouse4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\bellehouse5.jpg",
+      "PackagePath": "staticwebassets\\images\\bellehouse5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\bellehouse6.jpg",
+      "PackagePath": "staticwebassets\\images\\bellehouse6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\bendir.jpg",
+      "PackagePath": "staticwebassets\\images\\bendir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\bni_Frassen.jpg",
+      "PackagePath": "staticwebassets\\images\\bni_Frassen.jpg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\brand\\b-01.png",
       "PackagePath": "staticwebassets\\images\\brand\\b-01.png"
     },
@@ -345,8 +653,180 @@
       "PackagePath": "staticwebassets\\images\\brand\\b-03.png"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\calc.png",
+      "PackagePath": "staticwebassets\\images\\calc.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\calc2.png",
+      "PackagePath": "staticwebassets\\images\\calc2.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\capture.png",
+      "PackagePath": "staticwebassets\\images\\capture.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\capture2.png",
+      "PackagePath": "staticwebassets\\images\\capture2.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\capture3.png",
+      "PackagePath": "staticwebassets\\images\\capture3.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\capture4.png",
+      "PackagePath": "staticwebassets\\images\\capture4.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\capture5.png",
+      "PackagePath": "staticwebassets\\images\\capture5.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\capture6.png",
+      "PackagePath": "staticwebassets\\images\\capture6.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\capture7.png",
+      "PackagePath": "staticwebassets\\images\\capture7.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\capture8.png",
+      "PackagePath": "staticwebassets\\images\\capture8.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\carte.png",
+      "PackagePath": "staticwebassets\\images\\carte.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\chabab1.png",
+      "PackagePath": "staticwebassets\\images\\chabab1.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\chabab2.png",
+      "PackagePath": "staticwebassets\\images\\chabab2.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\chambre_pyramides.jpg",
+      "PackagePath": "staticwebassets\\images\\chambre_pyramides.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\chef.jpg",
+      "PackagePath": "staticwebassets\\images\\chef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\chikertaza.jpg",
+      "PackagePath": "staticwebassets\\images\\chikertaza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\clothing.jpeg",
+      "PackagePath": "staticwebassets\\images\\clothing.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\clothing.jpg",
+      "PackagePath": "staticwebassets\\images\\clothing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\clothing_2.png",
+      "PackagePath": "staticwebassets\\images\\clothing_2.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\couscous.jpg",
+      "PackagePath": "staticwebassets\\images\\couscous.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\cuisine.jpg",
+      "PackagePath": "staticwebassets\\images\\cuisine.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\darchabab.png",
+      "PackagePath": "staticwebassets\\images\\darchabab.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\dayet.jpg",
+      "PackagePath": "staticwebassets\\images\\dayet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\dayet2.jpg",
+      "PackagePath": "staticwebassets\\images\\dayet2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\dayet3.jpg",
+      "PackagePath": "staticwebassets\\images\\dayet3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\dayet4.jpg",
+      "PackagePath": "staticwebassets\\images\\dayet4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\dayet5.jpg",
+      "PackagePath": "staticwebassets\\images\\dayet5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\djelabahomme.jpg",
+      "PackagePath": "staticwebassets\\images\\djelabahomme.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\fancybox\\blank.gif",
+      "PackagePath": "staticwebassets\\images\\fancybox\\blank.gif"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\fancybox\\fancybox_loading.gif",
+      "PackagePath": "staticwebassets\\images\\fancybox\\fancybox_loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\fancybox\\fancybox_loading@2x.gif",
+      "PackagePath": "staticwebassets\\images\\fancybox\\fancybox_loading@2x.gif"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\fancybox\\fancybox_overlay.png",
+      "PackagePath": "staticwebassets\\images\\fancybox\\fancybox_overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\fancybox\\fancybox_sprite.png",
+      "PackagePath": "staticwebassets\\images\\fancybox\\fancybox_sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\fancybox\\fancybox_sprite@2x.png",
+      "PackagePath": "staticwebassets\\images\\fancybox\\fancybox_sprite@2x.png"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\fav-icon.png",
       "PackagePath": "staticwebassets\\images\\fav-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\femme2-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\femme2-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\femme3-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\femme3-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\festivales.jpg",
+      "PackagePath": "staticwebassets\\images\\festivales.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\food.avif",
+      "PackagePath": "staticwebassets\\images\\food.avif"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\food1.jpg",
+      "PackagePath": "staticwebassets\\images\\food1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\food3.jpg",
+      "PackagePath": "staticwebassets\\images\\food3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\food4.jpg",
+      "PackagePath": "staticwebassets\\images\\food4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\food6.webp",
+      "PackagePath": "staticwebassets\\images\\food6.webp"
     },
     {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\footer-logo.png",
@@ -757,6 +1237,126 @@
       "PackagePath": "staticwebassets\\images\\gallery\\ture-8.png"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\garden.jpg",
+      "PackagePath": "staticwebassets\\images\\garden.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\garden1.jpg",
+      "PackagePath": "staticwebassets\\images\\garden1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\garden2.jpg",
+      "PackagePath": "staticwebassets\\images\\garden2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\habit traditionnels.jpg",
+      "PackagePath": "staticwebassets\\images\\habit traditionnels.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\hamam.jpeg",
+      "PackagePath": "staticwebassets\\images\\hamam.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\hamam2.jpg",
+      "PackagePath": "staticwebassets\\images\\hamam2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\hamam5.avif",
+      "PackagePath": "staticwebassets\\images\\hamam5.avif"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\hamam8.png",
+      "PackagePath": "staticwebassets\\images\\hamam8.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\hammam.jpg",
+      "PackagePath": "staticwebassets\\images\\hammam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\hemama.jpg",
+      "PackagePath": "staticwebassets\\images\\hemama.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\homme1-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\homme1-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\hotel-pyramides.jpg",
+      "PackagePath": "staticwebassets\\images\\hotel-pyramides.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\hotelagora.jpg",
+      "PackagePath": "staticwebassets\\images\\hotelagora.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\house.jpg",
+      "PackagePath": "staticwebassets\\images\\house.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\2302.i203.018.S.m004.c13.morocco touristic travel flat map.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\2302.i203.018.S.m004.c13.morocco touristic travel flat map.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\3369736-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\icons\\3369736-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\AdobeStock_328064073_Preview.jpeg",
+      "PackagePath": "staticwebassets\\images\\icons\\AdobeStock_328064073_Preview.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\Capture d'écran 2023-07-16 171914.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Capture d'écran 2023-07-16 171914.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\Capture d'écran 2023-07-16 174741.png",
+      "PackagePath": "staticwebassets\\images\\icons\\Capture d'écran 2023-07-16 174741.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\FPgyKHsXMAMM4nF-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\icons\\FPgyKHsXMAMM4nF-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\Sans titre.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\Sans titre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\images\\icons\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\arrow-left.png",
+      "PackagePath": "staticwebassets\\images\\icons\\arrow-left.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\arrow-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\arrow-right-o.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\arrow-right-o.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\arrow-right.png",
+      "PackagePath": "staticwebassets\\images\\icons\\arrow-right.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\arrow-up.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\arrow-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\back-arrow.png",
+      "PackagePath": "staticwebassets\\images\\icons\\back-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\banned.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\banned.svg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\banner-icon-01.png",
       "PackagePath": "staticwebassets\\images\\icons\\banner-icon-01.png"
     },
@@ -765,8 +1365,16 @@
       "PackagePath": "staticwebassets\\images\\icons\\banner-icon-02.png"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\bill.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\bill.svg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\blog-icon.png",
       "PackagePath": "staticwebassets\\images\\icons\\blog-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\buy-treker.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\buy-treker.svg"
     },
     {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\c-1.png",
@@ -793,8 +1401,28 @@
       "PackagePath": "staticwebassets\\images\\icons\\c-6.png"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\calendar.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\calendar.svg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\calender.svg",
       "PackagePath": "staticwebassets\\images\\icons\\calender.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\campings.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\campings.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\cart-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\cart-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\category-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\category-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\check-icon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\check-icon.png"
     },
     {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\check.png",
@@ -833,6 +1461,18 @@
       "PackagePath": "staticwebassets\\images\\icons\\choose-top-04.png"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\close-icon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\close-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\close-menu.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\close-menu.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\coupon-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\coupon-icon.svg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\destination-icon.png",
       "PackagePath": "staticwebassets\\images\\icons\\destination-icon.png"
     },
@@ -841,8 +1481,32 @@
       "PackagePath": "staticwebassets\\images\\icons\\doler.png"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\duration.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\duration.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\email-1.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\email-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\events.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\events.svg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\facebook.svg",
       "PackagePath": "staticwebassets\\images\\icons\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\heart-icon-1.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\heart-icon-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\heart-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\heart-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\hill.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\hill.svg"
     },
     {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\home2-about-icon1.png",
@@ -853,12 +1517,60 @@
       "PackagePath": "staticwebassets\\images\\icons\\home2-about-icon3.png"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\icon-arrow-1.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-arrow-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\icon-check-2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-check-2.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\icon-check-3.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-check-3.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\icon-check.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-check.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\icon-phone-1.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-phone-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\icon-select-2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-select-2.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\icon-select.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-select.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\icon-upload.png",
+      "PackagePath": "staticwebassets\\images\\icons\\icon-upload.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\images.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\images.jpg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\instagram.svg",
       "PackagePath": "staticwebassets\\images\\icons\\instagram.svg"
     },
     {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\instagram2.svg",
       "PackagePath": "staticwebassets\\images\\icons\\instagram2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\key.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\key.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\kitchen-tool.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\kitchen-tool.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\lights.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\lights.svg"
     },
     {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\linkedin.png",
@@ -873,6 +1585,18 @@
       "PackagePath": "staticwebassets\\images\\icons\\list-arrow.png"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\loc-hover.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\loc-hover.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\loc.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\loc.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\location-1.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\location-1.svg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\location-dot.svg",
       "PackagePath": "staticwebassets\\images\\icons\\location-dot.svg"
     },
@@ -881,8 +1605,92 @@
       "PackagePath": "staticwebassets\\images\\icons\\location.svg"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\logo-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\logo-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\map-marker.png",
+      "PackagePath": "staticwebassets\\images\\icons\\map-marker.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\menu-icon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\menu-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\menu-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\menu-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\menu.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\menu.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\more-arrow-2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\more-arrow-2.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\more-arrow.png",
+      "PackagePath": "staticwebassets\\images\\icons\\more-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\morocco-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\icons\\morocco-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\morocco.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\morocco.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\passport.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\passport.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\phone-1.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\phone-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\phone-call.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\phone-call.svg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\plan.png",
       "PackagePath": "staticwebassets\\images\\icons\\plan.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\preloader.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\preloader.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\printer.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\printer.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\queue.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\queue.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\quote-icon-1.png",
+      "PackagePath": "staticwebassets\\images\\icons\\quote-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\quote-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\quote-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\quotes-1.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\quotes-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\quotes-2.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\quotes-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\quotes-3.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\quotes-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\quotes-4.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\quotes-4.svg"
     },
     {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\quotetion.png",
@@ -891,6 +1699,10 @@
     {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\qutation.png",
       "PackagePath": "staticwebassets\\images\\icons\\qutation.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\review-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\review-icon.svg"
     },
     {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\s-1.png",
@@ -905,6 +1717,10 @@
       "PackagePath": "staticwebassets\\images\\icons\\s-3.png"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\search-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\search-icon.svg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\search.svg",
       "PackagePath": "staticwebassets\\images\\icons\\search.svg"
     },
@@ -913,20 +1729,172 @@
       "PackagePath": "staticwebassets\\images\\icons\\share-arrow.svg"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\share-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\share-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\ship.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\ship.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\smoking.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\smoking.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\speedometer.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\speedometer.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\taza2-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\icons\\taza2-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\taza3.jpg",
+      "PackagePath": "staticwebassets\\images\\icons\\taza3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\tazacity-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\icons\\tazacity-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\team-group.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\team-group.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\ticket.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\ticket.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\title-vector-2.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\title-vector-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\title-vector.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\title-vector.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\toilet.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\toilet.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\tour-guide.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\tour-guide.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\travel-insurance.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\travel-insurance.svg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\twitter.svg",
       "PackagePath": "staticwebassets\\images\\icons\\twitter.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\vid-icon.png",
+      "PackagePath": "staticwebassets\\images\\icons\\vid-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\video-icon-1.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\video-icon-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\video-icon-2.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\video-icon-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\wifi-signal.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\wifi-signal.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\zoom-2.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\zoom-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\icons\\zoom-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\zoom-icon.svg"
     },
     {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\img_6591.jpg",
       "PackagePath": "staticwebassets\\images\\img_6591.jpg"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\jardin municipale taza maroc.jpg",
+      "PackagePath": "staticwebassets\\images\\jardin municipale taza maroc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\jeunesse.jpg",
+      "PackagePath": "staticwebassets\\images\\jeunesse.jpg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\jrd.jpg",
       "PackagePath": "staticwebassets\\images\\jrd.jpg"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\konoz.jpg",
+      "PackagePath": "staticwebassets\\images\\konoz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\konoz1.jpg",
+      "PackagePath": "staticwebassets\\images\\konoz1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\konoz2.jpg",
+      "PackagePath": "staticwebassets\\images\\konoz2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\konoz3.jpg",
+      "PackagePath": "staticwebassets\\images\\konoz3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\konoz4.jpg",
+      "PackagePath": "staticwebassets\\images\\konoz4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\konoz5.jpg",
+      "PackagePath": "staticwebassets\\images\\konoz5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\la_jeunesse.jpg",
+      "PackagePath": "staticwebassets\\images\\la_jeunesse.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\lampe-culture-voyage-afrique-images.jpg",
+      "PackagePath": "staticwebassets\\images\\lampe-culture-voyage-afrique-images.jpg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\main-slider\\banner-bg-text.svg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\banner-bg-text.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\main-slider\\banner-image-1.svg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\banner-image-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\main-slider\\banner-image-2.svg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\banner-image-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\main-slider\\banner-image-3.svg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\banner-image-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\main-slider\\banner-image-4.svg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\banner-image-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\main-slider\\banner-stones-left.svg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\banner-stones-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\main-slider\\banner-stones-right.svg",
+      "PackagePath": "staticwebassets\\images\\main-slider\\banner-stones-right.svg"
     },
     {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\monu-removebg-preview (1).png",
@@ -937,12 +1905,776 @@
       "PackagePath": "staticwebassets\\images\\monu.jpg"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\moroccan-afrique-interieure-piscine-ornee.jpg",
+      "PackagePath": "staticwebassets\\images\\moroccan-afrique-interieure-piscine-ornee.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\moroccan_food.jpg",
+      "PackagePath": "staticwebassets\\images\\moroccan_food.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\moroccan_food1.jpg",
+      "PackagePath": "staticwebassets\\images\\moroccan_food1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\music.jpg",
+      "PackagePath": "staticwebassets\\images\\music.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\musical heritage.jpg",
+      "PackagePath": "staticwebassets\\images\\musical heritage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\musical_heritage.jpg",
+      "PackagePath": "staticwebassets\\images\\musical_heritage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\naturetazeka.jpg",
+      "PackagePath": "staticwebassets\\images\\naturetazeka.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\organic_garden.jpg",
+      "PackagePath": "staticwebassets\\images\\organic_garden.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\organicgarden.jpg",
+      "PackagePath": "staticwebassets\\images\\organicgarden.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\parkagora.jpg",
+      "PackagePath": "staticwebassets\\images\\parkagora.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\peaple-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\peaple-removebg-preview.png"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\pixabay-excursion-2830756_1920.jpg",
       "PackagePath": "staticwebassets\\images\\pixabay-excursion-2830756_1920.jpg"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\pourfemme.jpg",
+      "PackagePath": "staticwebassets\\images\\pourfemme.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\pyramides.jpeg",
+      "PackagePath": "staticwebassets\\images\\pyramides.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\pyramides2.jpeg",
+      "PackagePath": "staticwebassets\\images\\pyramides2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\pyramides3.jpeg",
+      "PackagePath": "staticwebassets\\images\\pyramides3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\pyramides7.jpg",
+      "PackagePath": "staticwebassets\\images\\pyramides7.jpg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\q.jpeg",
       "PackagePath": "staticwebassets\\images\\q.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\404-cloud-left.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\404-cloud-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\404-cloud-right.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\404-cloud-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\404-image.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\404-image.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\about-icon-1.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\about-icon-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\about-icon-2.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\about-icon-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\about-image-1.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\about-image-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\about-image-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\about-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\about-image-2.png",
+      "PackagePath": "staticwebassets\\images\\resource\\about-image-2.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\about-image-3.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\about-image-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\about-stone-right.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\about-stone-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\about-stone-two.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\about-stone-two.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\about-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\about-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\about-vector-1.png",
+      "PackagePath": "staticwebassets\\images\\resource\\about-vector-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\activity-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\activity-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\activity-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\activity-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\activity-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\activity-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\activity-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\activity-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\activity-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\activity-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\activity-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\activity-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\activity-7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\activity-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\activity-8.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\activity-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\activity-9.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\activity-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\asia-map.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\asia-map.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\author-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\author-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\author-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\dotted-pattern-1.png",
+      "PackagePath": "staticwebassets\\images\\resource\\dotted-pattern-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\europe-map.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\europe-map.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\f-icon-1.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\f-icon-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\f-icon-2.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\f-icon-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\f-icon-3.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\f-icon-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\f-icon-4.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\f-icon-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\f-image-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\f-image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\f-image-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\f-image-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\f-image-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\f-image-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\f-image-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\f-image-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\f-image-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\f-image-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\faq-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\faq-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\faq-image-1.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\faq-image-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\floated-icon-right-2.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\floated-icon-right-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\footer-stones.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\footer-stones.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\footer-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\footer-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\footer-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\footer-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\footer-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\footer-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\footer-thumb-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\footer-thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\footer-thumb-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\footer-thumb-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\footer-thumb-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\footer-thumb-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-10.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-11.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-12.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-13.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-14.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-15.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-16.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-17.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-18.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-19.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-20.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-21.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery-9.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\gallery.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\gallery.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\hills-image-2.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\hills-image-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\hills-image.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\hills-image.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\hotel.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\hotel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\icon-1.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\icon-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\icon-2.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\icon-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\icon-3.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\icon-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\icon-4.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\icon-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\icon-5.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\icon-5.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\icon-6.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\icon-6.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\news-1 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-1 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\news-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\news-2 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-2 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\news-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\news-3 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-3 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\news-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\news-4 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-4 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\news-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\news-5 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-5 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\news-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\news-6 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-6 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\news-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\news-7 - Copy (2).jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-7 - Copy (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\news-7 - Copy - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-7 - Copy - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\news-7 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-7 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\news-7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\news-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\newsletter-image.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\newsletter-image.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\north-america-map.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\north-america-map.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\plant-icon.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\plant-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\post-thumb-1 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-1 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\post-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\post-thumb-2 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-2 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\post-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\post-thumb-3 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-3 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\post-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\post-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\rev-thumb-1 - Copy.png",
+      "PackagePath": "staticwebassets\\images\\resource\\rev-thumb-1 - Copy.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\rev-thumb-1.png",
+      "PackagePath": "staticwebassets\\images\\resource\\rev-thumb-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\rev-thumb-2 - Copy.png",
+      "PackagePath": "staticwebassets\\images\\resource\\rev-thumb-2 - Copy.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\rev-thumb-2.png",
+      "PackagePath": "staticwebassets\\images\\resource\\rev-thumb-2.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\rev-thumb-3 - Copy.png",
+      "PackagePath": "staticwebassets\\images\\resource\\rev-thumb-3 - Copy.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\rev-thumb-3.png",
+      "PackagePath": "staticwebassets\\images\\resource\\rev-thumb-3.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\rev-thumb-4 - Copy.png",
+      "PackagePath": "staticwebassets\\images\\resource\\rev-thumb-4 - Copy.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\rev-thumb-4.png",
+      "PackagePath": "staticwebassets\\images\\resource\\rev-thumb-4.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\shop\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\shop\\prod-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\shop\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\shop\\prod-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\shop\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\shop\\prod-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\shop\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\shop\\prod-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\shop\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\shop\\prod-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\shop\\prod-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\shop\\prod-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\shop\\prod-7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\shop\\prod-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\shop\\prod-8.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\shop\\prod-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\shop\\rev-thumb-shop.png",
+      "PackagePath": "staticwebassets\\images\\resource\\shop\\rev-thumb-shop.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\shop\\s-cart-thumb.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\shop\\s-cart-thumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\shop\\shop-single-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\shop\\shop-single-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\shop\\shop-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\shop\\shop-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\shop\\shop-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\shop\\shop-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\shop\\shop-thumb-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\shop\\shop-thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\signature-1.png",
+      "PackagePath": "staticwebassets\\images\\resource\\signature-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\sponsor-1 - Copy.png",
+      "PackagePath": "staticwebassets\\images\\resource\\sponsor-1 - Copy.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\sponsor-1.png",
+      "PackagePath": "staticwebassets\\images\\resource\\sponsor-1.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\sponsor-2 - Copy.png",
+      "PackagePath": "staticwebassets\\images\\resource\\sponsor-2 - Copy.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\sponsor-2.png",
+      "PackagePath": "staticwebassets\\images\\resource\\sponsor-2.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\sponsor-3 - Copy.png",
+      "PackagePath": "staticwebassets\\images\\resource\\sponsor-3 - Copy.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\sponsor-3.png",
+      "PackagePath": "staticwebassets\\images\\resource\\sponsor-3.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\sponsor-4 - Copy.png",
+      "PackagePath": "staticwebassets\\images\\resource\\sponsor-4 - Copy.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\sponsor-4.png",
+      "PackagePath": "staticwebassets\\images\\resource\\sponsor-4.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\stones-alt.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\stones-alt.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\stones-left.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\stones-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\stones-right-2.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\stones-right-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\stones-right-3.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\stones-right-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\stones-right.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\stones-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\team-2 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-2 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\team-3 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-3 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\team-4 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-4 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\team-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\team-5 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-5 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\team-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\team-6 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-6 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\team-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\team-7 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-7 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\team-7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\team-icon-left.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\team-icon-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\testi-image-1 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\testi-image-1 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\testi-image-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\testi-image-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\testi-thumb-1 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\testi-thumb-1 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\testi-thumb-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\testi-thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\testi-thumb-2 - Copy.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\testi-thumb-2 - Copy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\testi-thumb-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\testi-thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\tour-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\tour-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\tour-10.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\tour-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\tour-11.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\tour-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\tour-12.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\tour-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\tour-13.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\tour-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\tour-14.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\tour-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\tour-15.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\tour-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\tour-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\tour-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\tour-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\tour-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\tour-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\tour-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\tour-5.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\tour-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\tour-6.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\tour-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\tour-7.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\tour-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\tour-8.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\tour-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\tour-9.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\tour-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\why-image-1.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\why-image-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\resource\\world-map.svg",
+      "PackagePath": "staticwebassets\\images\\resource\\world-map.svg"
     },
     {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\shape\\banner-arrow.png",
@@ -1049,6 +2781,54 @@
       "PackagePath": "staticwebassets\\images\\shape\\title-shape.png"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\sintir.jpg",
+      "PackagePath": "staticwebassets\\images\\sintir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\sok1.jpg",
+      "PackagePath": "staticwebassets\\images\\sok1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\sok2.jpg",
+      "PackagePath": "staticwebassets\\images\\sok2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\sok3.jpg",
+      "PackagePath": "staticwebassets\\images\\sok3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\sok4.jpg",
+      "PackagePath": "staticwebassets\\images\\sok4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\sook8.jpg",
+      "PackagePath": "staticwebassets\\images\\sook8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\sooks.jpg",
+      "PackagePath": "staticwebassets\\images\\sooks.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\souks taza.jpg",
+      "PackagePath": "staticwebassets\\images\\souks taza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\souks-taza.jpg",
+      "PackagePath": "staticwebassets\\images\\souks-taza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\souktaza.jpg",
+      "PackagePath": "staticwebassets\\images\\souktaza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\tajine.jpg",
+      "PackagePath": "staticwebassets\\images\\tajine.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\tapis-marche-marrakech.jpg",
+      "PackagePath": "staticwebassets\\images\\tapis-marche-marrakech.jpg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\taza.jpg",
       "PackagePath": "staticwebassets\\images\\taza.jpg"
     },
@@ -1057,8 +2837,52 @@
       "PackagePath": "staticwebassets\\images\\taza_1_ps_1.jpg"
     },
     {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\tazeeka3.jpg",
+      "PackagePath": "staticwebassets\\images\\tazeeka3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\tazeeka4.jpg",
+      "PackagePath": "staticwebassets\\images\\tazeeka4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\tazeekahotel.jpg",
+      "PackagePath": "staticwebassets\\images\\tazeekahotel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\tazekka.jpeg",
+      "PackagePath": "staticwebassets\\images\\tazekka.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\tazekkanature.jpg",
+      "PackagePath": "staticwebassets\\images\\tazekkanature.jpg"
+    },
+    {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\tazzeka.jpg",
       "PackagePath": "staticwebassets\\images\\tazzeka.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\traditional.jpg",
+      "PackagePath": "staticwebassets\\images\\traditional.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\traditonal clothing.avif",
+      "PackagePath": "staticwebassets\\images\\traditonal clothing.avif"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\traditonal_clothing.avif",
+      "PackagePath": "staticwebassets\\images\\traditonal_clothing.avif"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\unnamed-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\unnamed-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\vue-arriere-public-excite-bras-leves-acclamant-devant-scene-lors-concert-musique-espace-copie.jpg",
+      "PackagePath": "staticwebassets\\images\\vue-arriere-public-excite-bras-leves-acclamant-devant-scene-lors-concert-musique-espace-copie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\images\\wahda.jpg",
+      "PackagePath": "staticwebassets\\images\\wahda.jpg"
     },
     {
       "Id": "C:\\Users\\SARA-PC\\OneDrive\\Bureau\\DiiscoverTaza2\\DiiscoverTaza\\DiiscoverTaza\\wwwroot\\js\\all.min.js",
